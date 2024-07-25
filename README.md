@@ -16,4 +16,4 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 ## Overview
 
-This repository is a collection of my personal solutions to LeetCode problems. I aim to continuously update this repository as I solve more problems. Each solution is written in [mention your programming language(s), e.g., Python, Java, C++].
+This repository is a collection of my personal solutions to LeetCode problems. I aim to continuously update this repository as I solve more problems. Each solution is written in mention your programming language Java.
