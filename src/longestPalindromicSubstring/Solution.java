@@ -1,7 +1,7 @@
 package longestPalindromicSubstring;
 
 public class Solution {
-   public String longestPalindrome(String s) {
+    public String longestPalindrome(String s) {
         int strLength = s.length();
 
         if (strLength < 2) {
@@ -121,5 +121,4 @@ class Solution3 {
 
         return s.substring(left, right);
     }
-
 }
