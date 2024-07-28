@@ -1,4 +1,4 @@
-package containerWithMostWater;
+package s011_containerWithMostWater;
 
 public class Solution {
     public int maxArea(int[] height) {

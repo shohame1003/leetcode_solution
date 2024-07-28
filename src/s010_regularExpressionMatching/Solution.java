@@ -1,4 +1,4 @@
-package RegularExpressionMatching;
+package s010_regularExpressionMatching;
 
 public class Solution {
     private Boolean[][] cache;
