@@ -1,4 +1,4 @@
-package longestPalindromicSubstring;
+package s005_longestPalindromicSubstring;
 
 public class Solution {
     public String longestPalindrome(String s) {
