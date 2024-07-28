@@ -1,4 +1,4 @@
-package stringToIntegerAtoi;
+package s008_stringToIntegerAtoi;
 
 public class Solution {
     public int myAtoi(String str) {

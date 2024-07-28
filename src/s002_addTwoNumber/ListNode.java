@@ -1,4 +1,4 @@
-package addTwoNumber;
+package s002_addTwoNumber;
 
 public class ListNode {
     public ListNode next;

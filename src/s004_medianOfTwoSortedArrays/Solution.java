@@ -1,4 +1,4 @@
-package medianOfTwoSortedArrays;
+package s004_medianOfTwoSortedArrays;
 
 public class Solution {
     private int m;
