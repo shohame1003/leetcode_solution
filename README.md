@@ -51,4 +51,4 @@ Each directory contains subdirectories for each problem, named with the problem'
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/shohame/leetcode_solution.git](https://github.com/shohame1003/leetcode_solution.git)
+   git clone https://github.com/shohame/leetcode_solution.git
