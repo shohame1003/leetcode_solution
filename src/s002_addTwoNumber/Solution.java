@@ -1,7 +1,8 @@
 package s002_addTwoNumber;
 
 public class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2, Object head) {
+
         ListNode dummyHead = new ListNode(0, head);
         ListNode curr = dummyHead;
         int carry = 0;
