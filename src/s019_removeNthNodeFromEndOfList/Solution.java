@@ -1,6 +1,6 @@
 package s019_removeNthNodeFromEndOfList;
 
-import s002_addTwoNumber.ListNode;
+import s019_removeNthNodeFromEndOfList.ListNode;
 
 public class Solution {
     private int n;
